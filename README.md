@@ -1,3 +1,3 @@
 # Examples
 
-List of examples of use of the python library, downloaded from the official pyo wiki  [a link](http://ajaxsoundstudio.com/pyodoc/)
+List of some examples of use of the python library, original source code from the official pyo [wiki](http://ajaxsoundstudio.com/pyodoc/), 
